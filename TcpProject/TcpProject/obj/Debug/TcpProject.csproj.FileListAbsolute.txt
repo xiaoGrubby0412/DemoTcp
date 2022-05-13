@@ -1,0 +1,10 @@
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\bin\Debug\TcpProject.exe.config
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\bin\Debug\TcpProject.exe
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\bin\Debug\TcpProject.pdb
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\obj\Debug\TcpProject.csproj.AssemblyReference.cache
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\obj\Debug\TcpProject.Form1.resources
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\obj\Debug\TcpProject.Properties.Resources.resources
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\obj\Debug\TcpProject.csproj.GenerateResource.cache
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\obj\Debug\TcpProject.csproj.CoreCompileInputs.cache
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\obj\Debug\TcpProject.exe
+D:\ProjectGitHub\TcpProject\TcpProject\TcpProject\obj\Debug\TcpProject.pdb

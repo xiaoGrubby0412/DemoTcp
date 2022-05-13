@@ -1,0 +1,14 @@
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\bin\Debug\netcoreapp3.1\TcpProjectServer.exe
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\bin\Debug\netcoreapp3.1\TcpProjectServer.deps.json
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\bin\Debug\netcoreapp3.1\TcpProjectServer.runtimeconfig.json
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\bin\Debug\netcoreapp3.1\TcpProjectServer.runtimeconfig.dev.json
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\bin\Debug\netcoreapp3.1\TcpProjectServer.dll
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\bin\Debug\netcoreapp3.1\TcpProjectServer.pdb
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.csproj.AssemblyReference.cache
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.AssemblyInfoInputs.cache
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.AssemblyInfo.cs
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.csproj.CoreCompileInputs.cache
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.dll
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.pdb
+D:\ProjectGitHub\TcpProject\TcpProjectServer\TcpProjectServer\obj\Debug\netcoreapp3.1\TcpProjectServer.genruntimeconfig.cache
